@@ -12,7 +12,7 @@ A minimalistic To-Do List web application built with HTML, CSS, and JavaScript.
 - Add tasks to your to-do list
 - Mark tasks as complete
 - Delete tasks
-- Integrated Local Storage which utilizes `localStorage` for data persistence.
+- Enabled automatic saving of tasks for a lasting to-do list using `localStorage`.
 - Clean and intuitive user interface
 
 ## Getting Started
