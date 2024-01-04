@@ -2,6 +2,9 @@
 
 ## [Live-Link](https://pratyush2331.github.io/To-Do-List-App/)
 
+## Screenshots
+![screenshot of ui](image.png)
+
 A minimalistic To-Do List web application built with HTML, CSS, and JavaScript.
 
 ## Features
@@ -18,8 +21,3 @@ A minimalistic To-Do List web application built with HTML, CSS, and JavaScript.
 
    ```bash
    git clone https://github.com/pratyush2331/To-Do-List-App.git
-
-
-## Screenshots
-![screenshot of ui](image.png)
-
